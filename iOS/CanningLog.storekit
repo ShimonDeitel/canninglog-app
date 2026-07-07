@@ -1,0 +1,29 @@
+{
+  "identifier" : "canninglog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "canninglog_pro",
+      "localizations" : [
+        {
+          "description" : "Shelf-life expiry alerts and full batch history export",
+          "displayName" : "Canning Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.canning.pro",
+      "referenceName" : "Canning Log Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
